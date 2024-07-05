@@ -1,0 +1,6 @@
+document.getElementById("is").style.backgroundColor ="grey"
+document.getElementById("it").style.backgroundColor = "yellow"
+document.getElementById("if").style.backgroundColor = "green"
+document.getElementById("iy").style.backgroundColor = "violet"
+document.getElementById("io").style.backgroundColor = "black"
+document.getElementById("iu").style.backgroundColor = "blue"
